@@ -1,10 +1,7 @@
-feature 1
+feature2
 commit 2
 
 the boss was very happy with our dedication to problem solving :-)
 
-<<<<<<< HEAD
-Conflict 2
-=======
 oh no a Conflict has occurred
->>>>>>> conflict
+
