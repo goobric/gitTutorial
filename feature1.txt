@@ -2,3 +2,5 @@ commit 1
 commit 2
 
 the boss was very happy with our dedication to problem solving :-)
+
+oh no a Conflict has occurred
